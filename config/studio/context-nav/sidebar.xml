@@ -173,6 +173,7 @@
 									<name>site-config</name>									
 									<params>
 										<roles>
+										    <role>muser</role>
 											<role>admin</role>
 											<role>developer</role>
 										</roles>
