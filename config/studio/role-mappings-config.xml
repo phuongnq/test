@@ -54,6 +54,9 @@
         <group name="mis_muser">
             <role>muser</role>
         </group>
+        <group name="test">
+            <role>muser</role>
+        </group>
         <group name="site_admin">
             <role>admin</role>
         </group>
